@@ -15,12 +15,12 @@ To get started with the User Requests Handler, follow these steps:
 
 1. Clone the repository to your local machine:
 
-    _git clone https://github.com/your-username/user-requests-handler.git_
+    _git clone https://github.com/Barashkov-GO/java_labs.git_
 
 
 2. Navigate to the project directory:
 
-    _cd user-requests-handler_
+    _cd java_labs/UserRequestsHandler_
 
 3. Compile the Java files:
 

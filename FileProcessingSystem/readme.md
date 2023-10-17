@@ -23,12 +23,12 @@ The project consists of the following components:
 To get started with the File Processing System, follow these steps:
 
 1. Clone the repository to your local machine:
-   
-    _git clone https://github.com/your-username/file-processing-system.git_
+
+   _git clone https://github.com/Barashkov-GO/java_labs.git_
 
 2. Navigate to the project directory:
    
-    _cd file-processing-system_
+    _cd java_labs/FileProcessingSystem_
 
 3. Compile the Java files:
 

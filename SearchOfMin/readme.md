@@ -15,11 +15,11 @@ To get started with Search Of Min, follow these steps:
 
 1. Clone the repository to your local machine:
 
-    _git clone https://github.com/your-username/search-of-min.git_
+   _git clone https://github.com/Barashkov-GO/java_labs.git_
 
 2. Navigate to the project directory:
 
-    _cd search-of-min_
+    _cd java_labs/SearchOfMin_
 
 3. Compile the Java files:
 
