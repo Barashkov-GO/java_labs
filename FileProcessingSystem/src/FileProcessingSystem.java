@@ -1,10 +1,12 @@
+package FileProcessingSystem.src;
+
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.*;
 
 public class FileProcessingSystem {
     public static void main(String[] args) {
-
+        int[] a = {1, 2, 3, 4};
         ExecutorService generatorExecutor = Executors.newSingleThreadExecutor();
         // Один генератор файлов
 
